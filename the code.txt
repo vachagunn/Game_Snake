@@ -146,10 +146,5 @@ namespace Snake
 
             timer1.Interval -= 10;
         }
-
-        private void picture_box_Click(object sender, EventArgs e)
-        {
-
-        }
     }
 }
