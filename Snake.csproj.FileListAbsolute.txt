@@ -1,0 +1,27 @@
+C:\Users\user\source\repos\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\user\source\repos\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\user\source\repos\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\user\source\repos\Snake\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Users\user\source\repos\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\user\source\repos\Snake\Snake\obj\Debug\Snake.pdb
+C:\Users\user\source\repos\Snake\Snake\obj\Debug\Snake.SnakeGame.resources
+C:\Users\user\OneDrive\Рабочий стол\Game\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\user\OneDrive\Рабочий стол\Game\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\user\OneDrive\Рабочий стол\Game\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\user\OneDrive\Рабочий стол\Game\Snake\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+C:\Users\user\OneDrive\Рабочий стол\Game\Snake\Snake\obj\Debug\Snake.SnakeGame.resources
+C:\Users\user\OneDrive\Рабочий стол\Game\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Users\user\OneDrive\Рабочий стол\Game\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Рабочий стол\Game\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\user\OneDrive\Рабочий стол\Game\Snake\Snake\obj\Debug\Snake.pdb
+C:\Game\Snake\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Game\Snake\Snake\Snake\bin\Debug\Snake.exe
+C:\Game\Snake\Snake\Snake\bin\Debug\Snake.pdb
+C:\Game\Snake\Snake\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+C:\Game\Snake\Snake\Snake\obj\Debug\Snake.SnakeGame.resources
+C:\Game\Snake\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Game\Snake\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+C:\Game\Snake\Snake\Snake\obj\Debug\Snake.exe
+C:\Game\Snake\Snake\Snake\obj\Debug\Snake.pdb
